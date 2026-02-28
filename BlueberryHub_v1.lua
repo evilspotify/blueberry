@@ -1534,7 +1534,7 @@ local CreditsTab = Window:CreateTab("Credits", nil)
 
 CreditsTab:CreateSection("Blueberry by Evil Spotify v1.0")
 CreditsTab:CreateLabel("Made by Evil Spotify")
-CreditsTab:CreateLabel("Discord: evilspotify91")
+CreditsTab:CreateLabel("Created 2/27/26")
 CreditsTab:CreateLabel("Game: Blueberry (Part 1 of the Berry Trilogy)")
 CreditsTab:CreateSection("Notes")
 CreditsTab:CreateLabel("Pi badge requires 2 steps — sends you to a different game.")
@@ -1546,6 +1546,6 @@ CreditsTab:CreateLabel("Imposter badge is 1% chance per blueberry on stage 5.")
 -- =============================================
 Rayfield:Notify({
     Title    = "Blueberry by Evil Spotify",
-    Content  = "Loaded! discord: evilspotify91",
+    Content  = "Loaded!",
     Duration = 4,
 })
