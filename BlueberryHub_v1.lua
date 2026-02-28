@@ -15,7 +15,7 @@ local LocalPlayer  = Players.LocalPlayer
 local Window = Rayfield:CreateWindow({
     Name                = "Blueberry by Evil Spotify",
     LoadingTitle        = "Blueberry by Evil Spotify",
-    LoadingSubtitle     = "discord: evilspotify91",
+    LoadingSubtitle     = ":)",
     ConfigurationSaving = { Enabled = false },
     Discord             = { Enabled = false },
     KeySystem           = false,
